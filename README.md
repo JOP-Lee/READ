@@ -2,4 +2,4 @@
 implementation of "READ:  Large-Scale Neural Scene Rendering for Autonomous Driving"
 
 paper 
-![contents](./image/1.jpg)
+![contents](./image/main.jpg)

@@ -3,4 +3,5 @@ implementation of "READ:  Large-Scale Neural Scene Rendering for Autonomous Driv
 
 paper 
 ![contents](./image/main.jpg)
-![contents](./image/NovelView.mp4)
+<video src='./image/NovelView.mp4' width=180/>
+

@@ -10,4 +10,4 @@ paper
 #[![Watch the video](https://i.ytimg.com/an_webp/kC-bwky4e7Q/mqdefault_6s.webp?du=3000&sqp=CIDh7JMG&rs=AOn4CLAE5KzsOlrQzpZVB2DYJbC4UMOhGQ)](https://youtu.be/kC-bwky4e7Q)
 #[<img src="https://i.ytimg.com/an_webp/kC-bwky4e7Q/mqdefault_6s.webp?du=3000&sqp=CIDh7JMG&rs=AOn4CLAE5KzsOlrQzpZVB2DYJbC4UMOhGQ" width="50%">](https://youtu.be/kC-bwky4e7Q)
 
-[![Watch the video](./image/main.jpg)](https://youtu.be/kC-bwky4e7Q)
+[![Watch the video](./imagevideo.png)](https://youtu.be/kC-bwky4e7Q)

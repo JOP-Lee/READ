@@ -54,7 +54,7 @@ Demo: (Use only one camera view for training)
 ##  Scene Editing:
 
 READ can move and remove the cars in different views. A panorama with larger view can be synthesized by changing the camera parameters.
-![contents](./image/SceneEdit.jpg)
+![contents](./image/Scene_Editing.jpg)
  
 
 ## Scene Stitching:

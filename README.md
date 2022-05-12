@@ -20,18 +20,16 @@ Demo: (Use only one camera view for training)
 ## Citation
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2205.05509,
-  doi = {10.48550/ARXIV.2205.05509},
-  url = {https://arxiv.org/abs/2205.05509},  
-  author = {Li, Zhuopeng and Li, Lu and Ma, Zeyu and Zhang, Ping and Chen, Junbo and Zhu, Jianke},  
-  title = {READ: Large-Scale Neural Scene Rendering for Autonomous Driving},  
-  publisher = {arXiv},  
-  year = {2022},  
-  copyright = {arXiv.org perpetual, non-exclusive license}
+
+@misc{li2022read,
+    title={READ: Large-Scale Neural Scene Rendering for Autonomous Driving},
+    author={Zhuopeng Li and Lu Li and Zeyu Ma and Ping Zhang and Junbo Chen and Jianke Zhu},
+    year={2022},
+    eprint={2205.05509},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
 ```
-
-
 
 ## Overview: 
 

@@ -15,7 +15,15 @@ Overview:
 Click to view the video
 [![Watch the video](./image/video.png)](https://youtu.be/73zcrqwNFRk)
 
-Example results of scene editing:
+Scene editing:
 
 We can move and remove the cars in different views. A panorama with larger view can be synthesized by changing the camera parameters.
 ![contents](./image/SceneEdit.jpg)
+
+
+Scene stitching:
+
+Our model is able to synthesize the larger driving scenes and update local areas with obvious changes in road conditions. 
+![contents](./image/Scene_Stitching.jpg)
+
+

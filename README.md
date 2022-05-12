@@ -5,9 +5,15 @@ Paper: https://arxiv.org/abs/2205.05509
 
 Compressed video: https://www.youtube.com/watch?v=73zcrqwNFRk
 
-
-![Turn](https://user-images.githubusercontent.com/24960306/168002213-c7c49209-d2bf-489d-9f84-aac2fe6b757b.gif)
-
+Demo: (Use only one camera for training)
+<p float="center">
+<img src="https://user-images.githubusercontent.com/24960306/168012420-468478de-1db5-430d-bdd2-b52755477cd3.gif" width="32%">
+<img src="https://user-images.githubusercontent.com/24960306/168014170-b964a639-25de-4290-8e91-dc3d3f66ab7c.gif" width="32%">
+<img src="https://user-images.githubusercontent.com/24960306/168012387-ff471fcf-f617-4844-a4d6-bfbf52753d03.gif" width="32%">
+</p>
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/24960306/168002213-c7c49209-d2bf-489d-9f84-aac2fe6b757b.gif" width="96%">
+</p>
 
 ## Citation
 
@@ -23,12 +29,7 @@ Compressed video: https://www.youtube.com/watch?v=73zcrqwNFRk
 }
 ```
 
-<p float="left">
-<img src="https://user-images.githubusercontent.com/24960306/168012420-468478de-1db5-430d-bdd2-b52755477cd3.gif" width="32%">
-<img src="https://user-images.githubusercontent.com/24960306/168014170-b964a639-25de-4290-8e91-dc3d3f66ab7c.gif" width="32%">
-<img src="https://user-images.githubusercontent.com/24960306/168012387-ff471fcf-f617-4844-a4d6-bfbf52753d03.gif" width="32%">
 
-</p>
 
 ## Overview: 
 
@@ -50,13 +51,13 @@ Compressed video: https://www.youtube.com/watch?v=73zcrqwNFRk
 
 ##  Scene Editing:
 
-We can move and remove the cars in different views. A panorama with larger view can be synthesized by changing the camera parameters.
+READ can move and remove the cars in different views. A panorama with larger view can be synthesized by changing the camera parameters.
 ![contents](./image/SceneEdit.jpg)
 
 
 ## Scene Stitching:
 
-Our model is able to synthesize the larger driving scenes and update local areas with obvious changes in road conditions. 
+READ is able to synthesize the larger driving scenes and update local areas with obvious changes in road conditions. 
 ![contents](./image/Scene_Stitching.jpg)
 
 ## Novel View Synthesis:

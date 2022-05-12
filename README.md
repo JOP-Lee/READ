@@ -1,7 +1,7 @@
 # READ-Large-Scale-Neural-Scene-Rendering-for-Autonomous-Driving
 implementation of "READ:  Large-Scale Neural Scene Rendering for Autonomous Driving"
 
-paper 
+paper: https://arxiv.org/abs/2205.05509
 ![contents](./image/main.jpg)
 
 

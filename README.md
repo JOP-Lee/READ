@@ -5,11 +5,10 @@ A large-scale neural rendering method is proposed to synthesize the autonomous d
 
 Paper: https://arxiv.org/abs/2205.05509
 
-Video: https://youtu.be/73zcrqwNFRk (Compressed)
+Video: 
+ [Bilibili](https://www.bilibili.com/video/BV1KY411w7qh/) [Youtube](https://youtu.be/W3h5nmmM5BM) [Compressed](https://youtu.be/73zcrqwNFRk)
 
-Youtube: https://youtu.be/W3h5nmmM5BM (HD)
 
-Bilibili: https://www.bilibili.com/video/BV1KY411w7qh/
 
 Demo: (Use only one camera view for training)
 <p float="center">

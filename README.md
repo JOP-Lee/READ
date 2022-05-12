@@ -7,7 +7,7 @@ Paper: https://arxiv.org/abs/2205.05509
 
 Compressed video: https://www.youtube.com/watch?v=73zcrqwNFRk
 
-Demo: (Use only one camera for training)
+Demo: (Use only one camera view for training)
 <p float="center">
 <img src="https://user-images.githubusercontent.com/24960306/168012420-468478de-1db5-430d-bdd2-b52755477cd3.gif" width="32%">
 <img src="https://user-images.githubusercontent.com/24960306/168014170-b964a639-25de-4290-8e91-dc3d3f66ab7c.gif" width="32%">

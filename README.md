@@ -49,7 +49,7 @@ Demo: (Use only one camera view for training)
 
 ## Novel View(Click to view the video):
 
-[![Watch the video](./image/video.png)](https://youtu.be/W3h5nmmM5BM )
+[![Watch the video](./image/Video.png)](https://youtu.be/W3h5nmmM5BM )
 
 ##  Scene Editing:
 

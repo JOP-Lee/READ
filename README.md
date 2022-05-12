@@ -19,6 +19,7 @@ Compressed video: https://www.youtube.com/watch?v=73zcrqwNFRk
 }
 ```
 
+![Turn](https://user-images.githubusercontent.com/24960306/168002213-c7c49209-d2bf-489d-9f84-aac2fe6b757b.gif)
 
 
 ## Overview: 
@@ -33,8 +34,6 @@ Compressed video: https://www.youtube.com/watch?v=73zcrqwNFRk
 [<img src="https://i.ytimg.com/an_webp/kC-bwky4e7Q/mqdefault_6s.webp?du=3000&sqp=CIDh7JMG&rs=AOn4CLAE5KzsOlrQzpZVB2DYJbC4UMOhGQ" width="60%">](https://youtu.be/73zcrqwNFRk)
 --> 
 
-
-https://user-images.githubusercontent.com/24960306/167996751-ca27c8ab-03d0-43db-9d7f-ede49261228c.mp4
 
 
 ## Novel View(Click to view the video):

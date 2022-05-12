@@ -27,10 +27,15 @@ Compressed video: https://www.youtube.com/watch?v=73zcrqwNFRk
 
 
 
+
 <!--- 
 # [![Watch the video](https://i.ytimg.com/an_webp/kC-bwky4e7Q/mqdefault_6s.webp?du=3000&sqp=CIDh7JMG&rs=AOn4CLAE5KzsOlrQzpZVB2DYJbC4UMOhGQ)](https://youtu.be/kC-bwky4e7Q)
 [<img src="https://i.ytimg.com/an_webp/kC-bwky4e7Q/mqdefault_6s.webp?du=3000&sqp=CIDh7JMG&rs=AOn4CLAE5KzsOlrQzpZVB2DYJbC4UMOhGQ" width="60%">](https://youtu.be/73zcrqwNFRk)
 --> 
+
+
+https://user-images.githubusercontent.com/24960306/167996751-ca27c8ab-03d0-43db-9d7f-ede49261228c.mp4
+
 
 ## Novel View(Click to view the video):
 

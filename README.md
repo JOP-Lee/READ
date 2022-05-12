@@ -6,7 +6,7 @@ A large-scale neural rendering method is proposed to synthesize the autonomous d
 Paper: https://arxiv.org/abs/2205.05509
 
 Video: 
- [Bilibili](https://www.bilibili.com/video/BV1KY411w7qh/) [Youtube](https://youtu.be/W3h5nmmM5BM) [Compressed](https://youtu.be/73zcrqwNFRk)
+ [Bilibili](https://www.bilibili.com/video/BV1KY411w7qh/)  [Youtube](https://youtu.be/W3h5nmmM5BM)  [(Compressed)](https://youtu.be/73zcrqwNFRk)
 
 
 

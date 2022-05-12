@@ -5,6 +5,10 @@ Paper: https://arxiv.org/abs/2205.05509
 
 Compressed video: https://www.youtube.com/watch?v=73zcrqwNFRk
 
+
+![Turn](https://user-images.githubusercontent.com/24960306/168002213-c7c49209-d2bf-489d-9f84-aac2fe6b757b.gif)
+
+
 ## Citation
 
 ```
@@ -18,8 +22,6 @@ Compressed video: https://www.youtube.com/watch?v=73zcrqwNFRk
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
-
-![Turn](https://user-images.githubusercontent.com/24960306/168002213-c7c49209-d2bf-489d-9f84-aac2fe6b757b.gif)
 
 
 ## Overview: 

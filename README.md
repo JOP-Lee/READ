@@ -24,9 +24,9 @@ Compressed video: https://www.youtube.com/watch?v=73zcrqwNFRk
 ```
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/24960306/168012420-468478de-1db5-430d-bdd2-b52755477cd3.gif" width="33%">
-<img src="https://user-images.githubusercontent.com/24960306/168014170-b964a639-25de-4290-8e91-dc3d3f66ab7c.gif" width="33%">
-<img src="https://user-images.githubusercontent.com/24960306/168012387-ff471fcf-f617-4844-a4d6-bfbf52753d03.gif" width="33%">
+<img src="https://user-images.githubusercontent.com/24960306/168012420-468478de-1db5-430d-bdd2-b52755477cd3.gif" width="32%">
+<img src="https://user-images.githubusercontent.com/24960306/168014170-b964a639-25de-4290-8e91-dc3d3f66ab7c.gif" width="32%">
+<img src="https://user-images.githubusercontent.com/24960306/168012387-ff471fcf-f617-4844-a4d6-bfbf52753d03.gif" width="32%">
 
 </p>
 

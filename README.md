@@ -23,13 +23,11 @@ Demo: (Use only one camera view for training)
 
 ```
 
-@misc{li2022read,
-    title={READ: Large-Scale Neural Scene Rendering for Autonomous Driving},
-    author={Zhuopeng Li and Lu Li and Zeyu Ma and Ping Zhang and Junbo Chen and Jianke Zhu},
-    year={2022},
-    eprint={2205.05509},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{li2022read,
+  title={READ: Large-Scale Neural Scene Rendering for Autonomous Driving},
+  author={Li, Zhuopeng and Li, Lu and Ma, Zeyu and Zhang, Ping and Chen, Junbo and Zhu, Jianke},
+  journal={arXiv preprint arXiv:2205.05509},
+  year={2022}
 }
 ```
 

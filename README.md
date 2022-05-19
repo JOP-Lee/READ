@@ -16,8 +16,8 @@ Demo: (Use only one camera view for training)
 <img src="https://user-images.githubusercontent.com/24960306/168012387-ff471fcf-f617-4844-a4d6-bfbf52753d03.gif" width="32%">
 </p>
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/24960306/168002213-c7c49209-d2bf-489d-9f84-aac2fe6b757b.gif" width="96%">
-   <img src="https://user-images.githubusercontent.com/24960306/169205523-2d4e051a-2c56-461d-b16a-bb022e2596f2.gif" width="96%">
+  <img src="https://user-images.githubusercontent.com/24960306/168002213-c7c49209-d2bf-489d-9f84-aac2fe6b757b.gif" width="49%">
+   <img src="https://user-images.githubusercontent.com/24960306/169205523-2d4e051a-2c56-461d-b16a-bb022e2596f2.gif" width="49%">
 
 </p>
 

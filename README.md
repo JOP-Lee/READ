@@ -1,5 +1,7 @@
 # READ: Large-Scale Neural Scene Rendering for Autonomous Driving
 
+This is the code release for our AAAI2023 paper.
+
 A large-scale neural rendering method is proposed to synthesize the autonomous driving scene~(READ), which makes it possible to synthesize large-scale driving scenarios on a PC. Our model can not only synthesize realistic driving scenes but also stitch and edit driving scenes.
 
 Paper: https://arxiv.org/abs/2205.05509

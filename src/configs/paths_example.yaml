@@ -1,0 +1,9 @@
+datasets:
+
+
+    "kitti6_368_total":
+        scene_path: downloads/kitti6_368_total_sample.yaml
+        target_path:  path/READ/src/Data/kitti6_368_total/images_undistorted
+        target_name_func: "lambda i: f'{i}.png'"
+
+        

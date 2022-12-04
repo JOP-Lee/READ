@@ -1,0 +1,5 @@
+viewport_size: [1216, 368]
+intrinsic_matrix: camera.xml
+view_matrix:  camera.xml
+pointcloud: pointcloud.ply
+

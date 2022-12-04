@@ -119,8 +119,7 @@ READ is able to synthesize the larger driving scenes and update local areas with
 
 
 ## Acknowledgments
-In this code we refer to the following implementations: [npbg](https://github.com/yenchenlin/nerf-pytorch) and [
-MIMO](https://github.com/chosj95/MIMO-UNet). Great thanks to them! 
+In this code we refer to the following implementations: [npbg](https://github.com/yenchenlin/nerf-pytorch) and [smilelogging](https://github.com/MingSun-Tse/smilelogging). Great thanks to them! 
 
 
 ## Citation

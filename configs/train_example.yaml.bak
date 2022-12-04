@@ -1,0 +1,41 @@
+paths_file: configs/paths_example.yaml
+dataset_names: []
+
+batch_size: 3
+batch_size_val: 3
+eval_in_train: True
+input_format: uv_1d_p1, uv_1d_p1_ds1, uv_1d_p1_ds2, uv_1d_p1_ds3, uv_1d_p1_ds4
+# use_mask: True
+
+epochs: 100
+save_freq: 5
+save_dir: data/logs
+simple_name: True
+
+
+net_ckpt: scene_path.pth
+texture_ckpt: scene_path.pth
+
+#splitter_module: READ.datasets.splitter.split_by_ratio
+#splitter_args:
+#    train_ratio: 1
+
+splitter_module: READ.datasets.splitter.split_by_step
+splitter_args:
+    val_step: 10
+    train_drop: 0.0
+
+train_dataset_args:
+    keep_fov: False
+    random_zoom: [1, 2.0]
+    random_shift: [-1., 1.]
+    drop_points: 0.0
+    num_samples: 3000
+
+val_dataset_args:
+    keep_fov: False
+    drop_points: 0.0
+
+criterion_module: READ.criterions.vgg_loss.VGGLoss
+criterion_args:
+    partialconv: false

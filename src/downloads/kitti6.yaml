@@ -1,0 +1,7 @@
+viewport_size: [1216, 368]
+intrinsic_matrix: Data/kitti6_368_total/camera.xml
+view_matrix:  Data/kitti6_368_total/camera.xml
+pointcloud:  Data/kitti6_368_total/pointcloud.ply
+
+
+data_ratio: 0.01

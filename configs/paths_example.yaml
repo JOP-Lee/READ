@@ -1,0 +1,6 @@
+datasets:
+    "scene":
+        scene_path:  scene_path/Data/scene_name/scene.yaml
+        target_path:  scene_path/Data/scene_name/images_undistorted
+        target_name_func: "lambda i: f'{i}.png'"
+

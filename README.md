@@ -77,7 +77,9 @@ python viewer.py --config downloads/kitti6.yaml
 * Turn to the right: 2
 * Turn to the up: 3
 * Turn to the down: 4
-
+* Rotation: press left mouse button and drag
+* Move: press rigth mouse button and drug / scroll middle mouse botton
+* Pan: press middle mouse button and drug
 
 ## Train
 

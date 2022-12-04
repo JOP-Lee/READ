@@ -34,9 +34,9 @@ pip install \
     numpy-quaternion
 
 # pycuda
-proxychains4 git clone https://github.com/inducer/pycuda
+git clone https://github.com/inducer/pycuda
 cd pycuda
-proxychains4 git submodule update --init
+git submodule update --init
 export PATH=$PATH:/usr/local/cuda/bin
 ./configure.py --cuda-enable-gl
 python setup.py install

@@ -3,10 +3,10 @@
 
 
 Paper: https://arxiv.org/abs/2205.05509 (Old version)
- <!--- 
-Video: 
- [Bilibili](https://www.bilibili.com/video/BV1KY411w7qh/)  [Youtube](https://youtu.be/W3h5nmmM5BM)  
 
+Video: 
+ [Bilibili](https://www.bilibili.com/video/BV1KY411w7qh/)  [Youtube](https://www.youtube.com/watch?v=2yeH7l4oLYw)  
+ <!--- 
  [(Compressed)](https://youtu.be/73zcrqwNFRk)
 -->
 

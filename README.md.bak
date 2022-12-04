@@ -37,7 +37,7 @@ This is the code release for our AAAI2023 paper, PyTorch implementation of Large
 ## Setup
 
 The following instructions describe installation of conda environment.  Please refer to [requirement](https://github.com/JOP-Lee/READ/blob/main/requirement.sh)
-If you want to set it to headless mode(without X server enabled), see the MyRender in the [src folder](https://github.com/JOP-Lee/READ/tree/main/src). 
+If you want to set it to headless mode(without X server enabled), see the MyRender in the [src folder](https://github.com/JOP-Lee/READ/src). 
 
 Run this command to install python environment:
 ```bash

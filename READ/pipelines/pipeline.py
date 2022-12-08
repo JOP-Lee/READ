@@ -38,6 +38,9 @@ def load_pipeline(checkpoint, args_to_update=None):
 
     if args_to_update:
         ckpt['args'].update(args_to_update)
+    ckpt['args']['pipeline']='READ.pipelines.ogl.TexturePipeline'
+    ckpt['args']['splitter_module']= 'READ.datasets.splitter.split_by_step'
+    ckpt['args']['criterion_module']= 'READ.criterions.vgg_loss.VGGLoss'
 
     try:
         args = munch.munchify(ckpt['args'])

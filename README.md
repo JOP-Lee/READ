@@ -49,7 +49,7 @@ cd src/MyRender
 pip install -v -e .  
 ```
 
-
+ 
 ## Run
 
 You can render one of the fitted scenes we provide right away in the real-time viewer or fit your own scene.
@@ -89,7 +89,7 @@ python viewer.py --config downloads/kitti6.yaml
 
 python train.py --config configs/train_example.yaml --pipeline READ.pipelines.ogl.TexturePipeline --crop_size 256x256
 
-The size of crop_size depends on your GPU memory, and the parameter train_dataset_args can be adjusted in the configs folder
+The size of crop_size depends on your GPU memory, and the parameter train_dataset_args can be adjusted in the configs folder.
 
 
 ## Train with your own data

@@ -13,7 +13,7 @@ Video:
 
 Demo: (Use only one camera view for training)
 
-
+All you need is a sequence of images or video to get the following effects. The scenes are not limited to driving scenes, but can also be used for tourist scenes, indoor scenes, objects and so on¡£
 <p float="left">
 <img src="https://user-images.githubusercontent.com/24960306/168012420-468478de-1db5-430d-bdd2-b52755477cd3.gif" width="270"/>
 <img src="https://user-images.githubusercontent.com/24960306/168014170-b964a639-25de-4290-8e91-dc3d3f66ab7c.gif" width="270"/>
@@ -88,7 +88,14 @@ python train.py --config configs/train_example.yaml --pipeline READ.pipelines.og
 The size of crop_size depends on your GPU memory, and the parameter train_dataset_args can be adjusted in the configs folder
 
 
+## Train with your own data
 
+It's very simple. You just need a sequence of pictures to do it.
+
+Use metashape to obtain camera.xml, pointcloud.ply
+Place the above files and photos in the Data folder, for example, Data/image/xx.png, Data/camera.xml Data/pointcloud.ply
+Change the folder address in configs/paths_example.yaml and load net_ckpt/texture_ckpt model address in configs/train_example.yaml, if any.
+Run the code: python train.py --config configs/train_example.yaml --pipeline READ.pipelines.ogl.TexturePipeline --crop_size 256x256
 
 
 <!--- 

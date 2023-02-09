@@ -41,7 +41,7 @@ The following instructions describe installation of conda environment.  Please r
 
 If you want to set it to headless mode(without X server enabled), see the MyRender in the [src folder](https://github.com/JOP-Lee/READ/tree/main/src). 
 
-Note: The project needs to use the screen to run the script, if not, run the project in [src folder](https://github.com/JOP-Lee/READ/tree/main/src).
+Note: This project needs to use the screen to run the script, if not, run the project in [src folder](https://github.com/JOP-Lee/READ/tree/main/src).
 
 Run this command to install python environment:
 ```bash

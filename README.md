@@ -13,7 +13,8 @@ Video:
 
 Demo: (Use only one camera view for training)
 
-All you need is a sequence of images or video to get the following effects. The scenes are not limited to driving scenes, but can also be used for tourist scenes, indoor scenes, objects and so on¡£
+All you need is a series of images or videos as input to get the following effect. Scenes are not only limited to driving scenes, but also can be used for tourism scenes, indoor scenes, objects, etc.
+
 <p float="left">
 <img src="https://user-images.githubusercontent.com/24960306/168012420-468478de-1db5-430d-bdd2-b52755477cd3.gif" width="270"/>
 <img src="https://user-images.githubusercontent.com/24960306/168014170-b964a639-25de-4290-8e91-dc3d3f66ab7c.gif" width="270"/>
@@ -36,8 +37,11 @@ This is the code release for our AAAI2023 paper, PyTorch implementation of Large
 
 ## Setup
 
-The following instructions describe installation of conda environment.  Please refer to [requirement](https://github.com/JOP-Lee/READ/blob/main/requirement.sh)
+The following instructions describe installation of conda environment.  Please refer to [requirement](https://github.com/JOP-Lee/READ/blob/main/requirement.sh).
+
 If you want to set it to headless mode(without X server enabled), see the MyRender in the [src folder](https://github.com/JOP-Lee/READ/tree/main/src). 
+
+Note: The project needs to use the screen to run the script, if not, run the project in [src folder](https://github.com/JOP-Lee/READ/tree/main/src).
 
 Run this command to install python environment:
 ```bash
@@ -92,10 +96,10 @@ The size of crop_size depends on your GPU memory, and the parameter train_datase
 
 It's very simple. You just need a sequence of pictures to do it.
 
-Use metashape to obtain camera.xml, pointcloud.ply
-Place the above files and photos in the Data folder, for example, Data/image/xx.png, Data/camera.xml Data/pointcloud.ply
-Change the folder address in configs/paths_example.yaml and load net_ckpt/texture_ckpt model address in configs/train_example.yaml, if any.
-Run the code: python train.py --config configs/train_example.yaml --pipeline READ.pipelines.ogl.TexturePipeline --crop_size 256x256
+1. Use metashape to obtain camera.xml, pointcloud.ply
+2. Place the above files and photos in the Data folder, for example, Data/image/xx.png, Data/camera.xml Data/pointcloud.ply
+3. Change the folder address in configs/paths_example.yaml and load net_ckpt/texture_ckpt model address in configs/train_example.yaml, if any.
+4. Run the code: python train.py --config configs/train_example.yaml --pipeline READ.pipelines.ogl.TexturePipeline --crop_size 256x256
 
 
 <!--- 

@@ -1,6 +1,6 @@
 # READ: Large-Scale Neural Scene Rendering for Autonomous Driving
 
-![Commercial use is forbidden](https://img.shields.io/badge/License-Apache%202.0-blueviolet)
+Commercial use is forbidden![](https://img.shields.io/badge/License-Apache%202.0-blueviolet)
 
 Paper: https://arxiv.org/abs/2205.05509 (Old version)
 
